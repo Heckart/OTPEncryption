@@ -1,6 +1,6 @@
 # OTPEncryption
 
-The one time pad is a theoretically "perfect" encryption system. A good explaination of the cipher from can be found [here](https://cs-mst.gitlab.io/index/Classes/Security/Content/06-OneTimePad.html).
+The one time pad is a theoretically "perfect" encryption system. A good explaination of the cipher from can be found [here](https://cs-mst.gitlab.io/index/Classes/Security/Content/OneTimePad.html).
 
 ## Code
 
